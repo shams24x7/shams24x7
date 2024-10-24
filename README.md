@@ -26,7 +26,7 @@
   <a href="https://www.hackerrank.com/profile/tabrejshamsalam">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/shams24x7/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="https://linkedin.com/in/shams24x7" target="_blank">
